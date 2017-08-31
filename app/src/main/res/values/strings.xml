@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DtlBoxDemoApp</string>
+    <string name="response">"{
+\"ad\":{
+\"title\":\"Appodeal\",
+\"description\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante justo, condimentum porta volutpat at, pellentesque blandit nulla. Nunc tortor massa, aliquam et auctor et, facilisis vitae orci. Aliquam at nisl neque. Proin fermentum convallis hendrerit. Etiam sit amet lectus ante. Aenean id augue ligula. Sed et facilisis neque. Aliquam a ante volutpat, faucibus nunc eu, malesuada orci. Nulla id neque metus.\",
+\"button\":\"Learn more\",
+\"rating\":\"5\",
+\"image\":\"https://image-cdn-max.appodeal.com/appodeal-images/appodea-image.png\",
+\"icon\":\"https://image-cdn-max.appodeal.com/appodeal-images/appodeal_icon.png\",
+\"click_url\":\"https://www.google.com/\",
+\"video_url\":\" https://image-cdn-max.appodeal.com/appodeal-campaign-images/test_banners/video.mp4 \"
+}
+}"
+</string>
+</resources>
